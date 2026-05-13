@@ -1,0 +1,41 @@
+<!-- Product Section -->
+<main id="collection">
+    <h2>Our Collection</h2>
+    <div class="product-grid">
+        
+        <!-- Product Card 1 -->
+        <div class="product-card">
+            <div class="product-image">
+                <!-- A good spot for one of your realistic Polaroid-style generated images -->
+                <img src="bag1.jpg" alt="Classic Leather Tote">
+            </div>
+            <div class="product-info">
+                <h3 class="product-title">Classic Leather Tote</h3>
+                <p class="product-price">P450.00</p>
+            </div>
+        </div>
+
+        <!-- Product Card 2 -->
+        <div class="product-card">
+            <div class="product-image">
+                <img src="bag2.jpg" alt="Everyday Crossbody">
+            </div>
+            <div class="product-info">
+                <h3 class="product-title">Everyday Crossbody</h3>
+                <p class="product-price">P320.00</p>
+            </div>
+        </div>
+
+        <!-- Product Card 3 -->
+        <div class="product-card">
+            <div class="product-image">
+                <img src="bag3.jpg" alt="Weekend Duffel">
+            </div>
+            <div class="product-info">
+                <h3 class="product-title">Weekend Duffel</h3>
+                <p class="product-price">P680.00</p>
+            </div>
+        </div>
+
+    </div>
+</main>
